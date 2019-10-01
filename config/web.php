@@ -15,7 +15,7 @@ $config = [
     'modules' => [
         // module administrator
         'ap' => [
-            'class' => 'app\modules\ap\Module',
+            'class' => 'app\modules\ap\module',
         ],
     ],
     'components' => [
